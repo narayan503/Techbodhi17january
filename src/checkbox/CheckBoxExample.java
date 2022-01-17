@@ -29,6 +29,8 @@ public class CheckBoxExample {
     	 System.out.println(totalcheckbox.get(i).getAttribute("value"));
     	 totalcheckbox.get(i).click();
      }*/
+    
+    System.out.println("first test cases from git hub");
 
 	}
 
